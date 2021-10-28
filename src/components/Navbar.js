@@ -13,8 +13,8 @@ export default class Navbar extends Component {
                     <img src={logo} alt="store" className="navbar-brand" />
                 </Link>
                 <ul className="navbar-nav align-items-center">
-                    <li className="nav-item ms-5">
-                        <Link to="/" className="nav-link">Products</Link>
+                    <li className="nav-item ms-3">
+                        <Link to="/" className="nav-link">E-PhoneShop</Link>
                     </li>
                 </ul>
                 <Link to="/cart" className="ms-auto">
