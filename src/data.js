@@ -67,7 +67,7 @@ export const storeProducts = [
     price: 470,
     company: "huawei",
     info:
-      "The Huawei P30 Pro phone has a 6.47-inch (2340x1080) P-OLED screen, a 40MP main camera and a 32MP selfie camera. The battery capacity is 4200 mAh and the main processor is a Huawei HiSilicon KIRIN 980 with 6 GB of RAM.",
+      "The Huawei P30 Pro phone has a 6.48-inch (2340x1080) P-OLED screen, a 40MP main camera and a 32MP selfie camera. The battery capacity is 4200 mAh and the main processor is a Huawei HiSilicon KIRIN 980 with 6 GB of RAM.",
     inCart: false,
     count: 0,
     total: 0
